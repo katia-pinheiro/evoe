@@ -1,3 +1,0 @@
-[Solarus] [1953900] Error: Map '16': No such destination: 'do_fim'
-[Solarus] [1953900] Error: Map '16': No such destination: 'do_fim'
-[Solarus] [1954520] Error: Map '16': No such destination: 'do_fim'
